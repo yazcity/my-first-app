@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-
+import LayoutRoutes from './Components/LayoutRoutes/LayoutRoutes'
 function App() {
   return (
-    <div className="App">
-Yaseen
-    </div>
-  );
+    <>
+     <LayoutRoutes/>
+    </>
+  )
 }
 
-export default App;
+export default App
