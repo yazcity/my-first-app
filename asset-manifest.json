@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/my-first-app/static/css/main.f855e6bc.css",
-    "main.js": "/my-first-app/static/js/main.7a71aa6e.js",
+    "main.css": "/my-first-app/static/css/main.e6c13ad2.css",
+    "main.js": "/my-first-app/static/js/main.761c14e8.js",
     "static/js/453.2807b325.chunk.js": "/my-first-app/static/js/453.2807b325.chunk.js",
-    "static/media/logo.svg": "/my-first-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/welcome.png": "/my-first-app/static/media/welcome.723e52d36732126fa795.png",
+    "static/media/ambience.jpg": "/my-first-app/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
+    "static/media/Food1.jpg": "/my-first-app/static/media/Food1.f3072f11102878ef9b75.jpg",
+    "static/media/Food2.jpg": "/my-first-app/static/media/Food2.5e76d1030d726ab5f598.jpg",
+    "static/media/Food3.jpeg": "/my-first-app/static/media/Food3.5f4451ca789183e8050c.jpeg",
+    "static/media/logos.png": "/my-first-app/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/DeliveryImg.png": "/my-first-app/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
     "index.html": "/my-first-app/index.html",
-    "main.f855e6bc.css.map": "/my-first-app/static/css/main.f855e6bc.css.map",
-    "main.7a71aa6e.js.map": "/my-first-app/static/js/main.7a71aa6e.js.map",
+    "main.e6c13ad2.css.map": "/my-first-app/static/css/main.e6c13ad2.css.map",
+    "main.761c14e8.js.map": "/my-first-app/static/js/main.761c14e8.js.map",
     "453.2807b325.chunk.js.map": "/my-first-app/static/js/453.2807b325.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.7a71aa6e.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.761c14e8.js"
   ]
 }
