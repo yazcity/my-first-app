@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-first-app/static/css/main.e6c13ad2.css",
-    "main.js": "/my-first-app/static/js/main.761c14e8.js",
+    "main.js": "/my-first-app/static/js/main.d6b19332.js",
     "static/js/453.2807b325.chunk.js": "/my-first-app/static/js/453.2807b325.chunk.js",
     "static/media/welcome.png": "/my-first-app/static/media/welcome.723e52d36732126fa795.png",
     "static/media/ambience.jpg": "/my-first-app/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
@@ -12,11 +12,11 @@
     "static/media/DeliveryImg.png": "/my-first-app/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
     "index.html": "/my-first-app/index.html",
     "main.e6c13ad2.css.map": "/my-first-app/static/css/main.e6c13ad2.css.map",
-    "main.761c14e8.js.map": "/my-first-app/static/js/main.761c14e8.js.map",
+    "main.d6b19332.js.map": "/my-first-app/static/js/main.d6b19332.js.map",
     "453.2807b325.chunk.js.map": "/my-first-app/static/js/453.2807b325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.761c14e8.js"
+    "static/js/main.d6b19332.js"
   ]
 }
